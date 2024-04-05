@@ -16,11 +16,11 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "254702646760",
+  OWNER_NUMBER: "254799915563",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 MEXICORRIZO』",
-  BOT_NAME : "MEXICORRIZO",
-  ZUSYCO_FILE : "ZUSYCO-QR (2).)",
+  OWNER_NAME: "『 COLLOH』",
+  BOT_NAME : "COLLOH",
+  ZUSYCO_FILE : "ZUSYCO-QR (1)",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ STEVOOH ]',
+  STICKER_PACK : '[ COLLOH ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
